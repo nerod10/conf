@@ -1,1 +1,17 @@
-{}
+{
+  "door": 65,
+  "door_frame": 65,
+  "wall_colour_change": 2.2,
+  "wall_refresh": 1.1,
+  "crown_molding": 0.2,
+  "bathroom": 300,
+  "two_story_unit": 152,
+  "ceiling_non_stipple": 0.8,
+  "ceiling_painted_stipple": 1.0,
+  "ceiling_unpainted_stipple": 1.2,
+  "baseboards": 0.2,
+  "high_ceiling_walls": 0.05,
+  "den": 200,
+  "accent_wall": 0,
+  "closet": 150
+}
